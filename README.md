@@ -8,6 +8,7 @@ Também inclui o cadastro e login de usuário, além de algumas pequenas funcion
 ## Instalação
 
 Siga os passos abaixo para clonar e executar o projeto no seu computador:
+
 **Observação:** este passo a passo é destinado a computadores Windows.
 
 1. **Clone o repositório**
