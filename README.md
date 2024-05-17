@@ -1,6 +1,6 @@
 # Descrição
 
-Este é um projeto simples desenvolvido com o **framework Django** para fins de estudo.
+Este é um projeto fullstack simples desenvolvido com o **framework Django** para fins de estudo.
 
 O projeto é sobre uma pequena gestão de carros, com funcionalidades básicas como cadastrar, listar, editar e excluir carros. 
 Também inclui o cadastro e login de usuário, além de algumas pequenas funcionalidades adicionais. O projeto conta ainda com a página de administração do Django.
